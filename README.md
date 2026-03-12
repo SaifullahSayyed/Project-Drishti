@@ -1,45 +1,39 @@
-# DRISHTI
+# ⚖️ DRISHTI: Predictive Justice & Case Resolution Engine
 
-Predictive Justice & Case Resolution Engine.
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Groq](https://img.shields.io/badge/Groq-f55036?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-blue?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
-## Overview
+**DRISHTI** (Vision) is an intelligent backend engine designed to streamline the Indian judicial process. By leveraging statistical modeling and RAG (Retrieval-Augmented Generation), it predicts case timelines, suggests resolution pathways, and retrieves high-context precedents.
 
-DRISHTI is a FastAPI-based backend (with a modern frontend) that predicts case timelines, recommends resolution pathways, and surfaces relevant precedents for Indian courts. It orchestrates live case data, statistical models, RAG with Groq, and Indian Kanoon search into a single API.
+---
 
-## Tech Stack
+## 🚀 Key Features
 
-- Backend: FastAPI, SQLAlchemy (async), Pydantic Settings
-- AI / ML: XGBoost, pandas, joblib, Groq LLMs
-- Data / Search: PostgreSQL, Redis, Pinecone (optional), Indian Kanoon API
+* **⏱️ Timeline Prediction:** Uses **XGBoost** models trained on historical data to estimate case duration.
+* **🧠 Intelligent RAG:** Orchestrates **Groq LLMs** and **Pinecone** to provide context-aware legal summaries.
+* **🔍 Precedent Search:** Real-time integration with the **Indian Kanoon API** for surfacing relevant case law.
+* **⚡ High Performance:** Built on **FastAPI** with **SQLAlchemy (Async)** and **Redis** caching for low-latency responses.
 
-## Backend Setup (Local)
+---
 
-1. Create and activate venv
-   ```bash
-   python -m venv backend/venv
-   backend/venv/Scripts/activate  # Windows PowerShell
-   ```
+## 🛠️ Tech Stack
 
-2. Install dependencies
-   ```bash
-   pip install -r requirements.txt
-   ```
+| Layer | Technology |
+| :--- | :--- |
+| **Backend** | FastAPI, Pydantic, SQLAlchemy (Async) |
+| **AI/ML** | XGBoost, Pandas, Joblib, Groq (Llama 3) |
+| **Vector DB** | Pinecone |
+| **Database** | PostgreSQL |
+| **Caching** | Redis |
+| **Search** | Indian Kanoon API |
 
-3. Configure environment
-   - Copy `.env.example` to `.env`
-   - Fill in the real values for:
-     - `DATABASE_URL`
-     - `REDIS_URL`
-     - `GROQ_API_KEY`
-     - `PINECONE_API_KEY`
-     - `PINECONE_INDEX_NAME`
-     - `HUGGINGFACE_TOKEN`
-     - `INDIAN_KANOON_API_KEY`
-     - `SECRET_KEY`
+---
 
-4. Run the API
-   ```bash
-   uvicorn backend.main:app --reload --port 8000
-   ```
+## 🏁 Getting Started
 
-The health check is available at `http://localhost:8000/health`.
+### 1. Clone & Environment
+```bash
+git clone [https://github.com/yourusername/drishti.git](https://github.com/yourusername/drishti.git)
+cd drishti
