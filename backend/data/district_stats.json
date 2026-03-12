@@ -1,0 +1,2642 @@
+{
+  "Allahabad_land_acquisition": {
+    "petitioner_win_rate": 0.5,
+    "avg_resolution_years": 14.79,
+    "median_resolution_years": 14.53,
+    "district_average_years": 7.16,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Allahabad_property_dispute": {
+    "petitioner_win_rate": 0.52,
+    "avg_resolution_years": 15.61,
+    "median_resolution_years": 15.49,
+    "district_average_years": 7.16,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Allahabad_criminal_assault": {
+    "petitioner_win_rate": 0.5,
+    "avg_resolution_years": 4.37,
+    "median_resolution_years": 4.06,
+    "district_average_years": 7.16,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Allahabad_criminal_theft": {
+    "petitioner_win_rate": 0.62,
+    "avg_resolution_years": 5.28,
+    "median_resolution_years": 5.42,
+    "district_average_years": 7.16,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Allahabad_matrimonial": {
+    "petitioner_win_rate": 0.7,
+    "avg_resolution_years": 2.9,
+    "median_resolution_years": 2.99,
+    "district_average_years": 7.16,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Allahabad_labour_dispute": {
+    "petitioner_win_rate": 0.54,
+    "avg_resolution_years": 6.01,
+    "median_resolution_years": 5.74,
+    "district_average_years": 7.16,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Allahabad_motor_accident": {
+    "petitioner_win_rate": 0.56,
+    "avg_resolution_years": 5.31,
+    "median_resolution_years": 5.1,
+    "district_average_years": 7.16,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Allahabad_cheque_bounce": {
+    "petitioner_win_rate": 0.58,
+    "avg_resolution_years": 5.89,
+    "median_resolution_years": 5.88,
+    "district_average_years": 7.16,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Allahabad_service_matter": {
+    "petitioner_win_rate": 0.6,
+    "avg_resolution_years": 5.99,
+    "median_resolution_years": 5.84,
+    "district_average_years": 7.16,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Allahabad_constitutional": {
+    "petitioner_win_rate": 0.54,
+    "avg_resolution_years": 5.42,
+    "median_resolution_years": 4.41,
+    "district_average_years": 7.16,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Lucknow_land_acquisition": {
+    "petitioner_win_rate": 0.54,
+    "avg_resolution_years": 14.99,
+    "median_resolution_years": 15.39,
+    "district_average_years": 7.39,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Lucknow_property_dispute": {
+    "petitioner_win_rate": 0.54,
+    "avg_resolution_years": 15.73,
+    "median_resolution_years": 15.32,
+    "district_average_years": 7.39,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Lucknow_criminal_assault": {
+    "petitioner_win_rate": 0.36,
+    "avg_resolution_years": 4.63,
+    "median_resolution_years": 4.52,
+    "district_average_years": 7.39,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Lucknow_criminal_theft": {
+    "petitioner_win_rate": 0.42,
+    "avg_resolution_years": 4.51,
+    "median_resolution_years": 4.19,
+    "district_average_years": 7.39,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Lucknow_matrimonial": {
+    "petitioner_win_rate": 0.78,
+    "avg_resolution_years": 2.72,
+    "median_resolution_years": 2.56,
+    "district_average_years": 7.39,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Lucknow_labour_dispute": {
+    "petitioner_win_rate": 0.56,
+    "avg_resolution_years": 6.0,
+    "median_resolution_years": 5.82,
+    "district_average_years": 7.39,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Lucknow_motor_accident": {
+    "petitioner_win_rate": 0.6,
+    "avg_resolution_years": 6.11,
+    "median_resolution_years": 6.15,
+    "district_average_years": 7.39,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Lucknow_cheque_bounce": {
+    "petitioner_win_rate": 0.7,
+    "avg_resolution_years": 6.71,
+    "median_resolution_years": 6.48,
+    "district_average_years": 7.39,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Lucknow_service_matter": {
+    "petitioner_win_rate": 0.6,
+    "avg_resolution_years": 6.78,
+    "median_resolution_years": 7.24,
+    "district_average_years": 7.39,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Lucknow_constitutional": {
+    "petitioner_win_rate": 0.56,
+    "avg_resolution_years": 5.73,
+    "median_resolution_years": 5.62,
+    "district_average_years": 7.39,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Agra_land_acquisition": {
+    "petitioner_win_rate": 0.52,
+    "avg_resolution_years": 15.34,
+    "median_resolution_years": 14.52,
+    "district_average_years": 7.44,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Agra_property_dispute": {
+    "petitioner_win_rate": 0.54,
+    "avg_resolution_years": 14.28,
+    "median_resolution_years": 14.48,
+    "district_average_years": 7.44,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Agra_criminal_assault": {
+    "petitioner_win_rate": 0.34,
+    "avg_resolution_years": 4.38,
+    "median_resolution_years": 4.16,
+    "district_average_years": 7.44,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Agra_criminal_theft": {
+    "petitioner_win_rate": 0.48,
+    "avg_resolution_years": 5.27,
+    "median_resolution_years": 5.65,
+    "district_average_years": 7.44,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Agra_matrimonial": {
+    "petitioner_win_rate": 0.72,
+    "avg_resolution_years": 2.97,
+    "median_resolution_years": 3.04,
+    "district_average_years": 7.44,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Agra_labour_dispute": {
+    "petitioner_win_rate": 0.62,
+    "avg_resolution_years": 6.55,
+    "median_resolution_years": 7.36,
+    "district_average_years": 7.44,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Agra_motor_accident": {
+    "petitioner_win_rate": 0.62,
+    "avg_resolution_years": 6.74,
+    "median_resolution_years": 7.02,
+    "district_average_years": 7.44,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Agra_cheque_bounce": {
+    "petitioner_win_rate": 0.64,
+    "avg_resolution_years": 6.13,
+    "median_resolution_years": 6.12,
+    "district_average_years": 7.44,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Agra_service_matter": {
+    "petitioner_win_rate": 0.66,
+    "avg_resolution_years": 6.6,
+    "median_resolution_years": 7.0,
+    "district_average_years": 7.44,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Agra_constitutional": {
+    "petitioner_win_rate": 0.5,
+    "avg_resolution_years": 6.13,
+    "median_resolution_years": 6.1,
+    "district_average_years": 7.44,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Varanasi_land_acquisition": {
+    "petitioner_win_rate": 0.6,
+    "avg_resolution_years": 15.83,
+    "median_resolution_years": 15.49,
+    "district_average_years": 7.36,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Varanasi_property_dispute": {
+    "petitioner_win_rate": 0.6,
+    "avg_resolution_years": 15.01,
+    "median_resolution_years": 16.08,
+    "district_average_years": 7.36,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Varanasi_criminal_assault": {
+    "petitioner_win_rate": 0.4,
+    "avg_resolution_years": 4.97,
+    "median_resolution_years": 4.87,
+    "district_average_years": 7.36,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Varanasi_criminal_theft": {
+    "petitioner_win_rate": 0.4,
+    "avg_resolution_years": 4.79,
+    "median_resolution_years": 5.34,
+    "district_average_years": 7.36,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Varanasi_matrimonial": {
+    "petitioner_win_rate": 0.68,
+    "avg_resolution_years": 2.84,
+    "median_resolution_years": 2.73,
+    "district_average_years": 7.36,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Varanasi_labour_dispute": {
+    "petitioner_win_rate": 0.62,
+    "avg_resolution_years": 6.26,
+    "median_resolution_years": 6.54,
+    "district_average_years": 7.36,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Varanasi_motor_accident": {
+    "petitioner_win_rate": 0.54,
+    "avg_resolution_years": 5.84,
+    "median_resolution_years": 5.62,
+    "district_average_years": 7.36,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Varanasi_cheque_bounce": {
+    "petitioner_win_rate": 0.64,
+    "avg_resolution_years": 6.1,
+    "median_resolution_years": 6.35,
+    "district_average_years": 7.36,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Varanasi_service_matter": {
+    "petitioner_win_rate": 0.7,
+    "avg_resolution_years": 5.62,
+    "median_resolution_years": 5.58,
+    "district_average_years": 7.36,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Varanasi_constitutional": {
+    "petitioner_win_rate": 0.66,
+    "avg_resolution_years": 6.34,
+    "median_resolution_years": 6.62,
+    "district_average_years": 7.36,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Kanpur_land_acquisition": {
+    "petitioner_win_rate": 0.4,
+    "avg_resolution_years": 14.19,
+    "median_resolution_years": 13.98,
+    "district_average_years": 7.21,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Kanpur_property_dispute": {
+    "petitioner_win_rate": 0.46,
+    "avg_resolution_years": 15.61,
+    "median_resolution_years": 15.94,
+    "district_average_years": 7.21,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Kanpur_criminal_assault": {
+    "petitioner_win_rate": 0.4,
+    "avg_resolution_years": 5.03,
+    "median_resolution_years": 5.0,
+    "district_average_years": 7.21,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Kanpur_criminal_theft": {
+    "petitioner_win_rate": 0.4,
+    "avg_resolution_years": 4.9,
+    "median_resolution_years": 4.94,
+    "district_average_years": 7.21,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Kanpur_matrimonial": {
+    "petitioner_win_rate": 0.78,
+    "avg_resolution_years": 3.03,
+    "median_resolution_years": 3.12,
+    "district_average_years": 7.21,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Kanpur_labour_dispute": {
+    "petitioner_win_rate": 0.7,
+    "avg_resolution_years": 6.39,
+    "median_resolution_years": 6.8,
+    "district_average_years": 7.21,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Kanpur_motor_accident": {
+    "petitioner_win_rate": 0.48,
+    "avg_resolution_years": 6.42,
+    "median_resolution_years": 6.04,
+    "district_average_years": 7.21,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Kanpur_cheque_bounce": {
+    "petitioner_win_rate": 0.5,
+    "avg_resolution_years": 5.72,
+    "median_resolution_years": 5.46,
+    "district_average_years": 7.21,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Kanpur_service_matter": {
+    "petitioner_win_rate": 0.62,
+    "avg_resolution_years": 5.29,
+    "median_resolution_years": 5.18,
+    "district_average_years": 7.21,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Kanpur_constitutional": {
+    "petitioner_win_rate": 0.7,
+    "avg_resolution_years": 5.57,
+    "median_resolution_years": 5.13,
+    "district_average_years": 7.21,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Meerut_land_acquisition": {
+    "petitioner_win_rate": 0.68,
+    "avg_resolution_years": 15.29,
+    "median_resolution_years": 15.52,
+    "district_average_years": 7.1,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Meerut_property_dispute": {
+    "petitioner_win_rate": 0.42,
+    "avg_resolution_years": 14.73,
+    "median_resolution_years": 13.92,
+    "district_average_years": 7.1,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Meerut_criminal_assault": {
+    "petitioner_win_rate": 0.5,
+    "avg_resolution_years": 4.65,
+    "median_resolution_years": 4.58,
+    "district_average_years": 7.1,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Meerut_criminal_theft": {
+    "petitioner_win_rate": 0.48,
+    "avg_resolution_years": 4.38,
+    "median_resolution_years": 3.97,
+    "district_average_years": 7.1,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Meerut_matrimonial": {
+    "petitioner_win_rate": 0.76,
+    "avg_resolution_years": 3.13,
+    "median_resolution_years": 3.17,
+    "district_average_years": 7.1,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Meerut_labour_dispute": {
+    "petitioner_win_rate": 0.56,
+    "avg_resolution_years": 6.45,
+    "median_resolution_years": 6.3,
+    "district_average_years": 7.1,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Meerut_motor_accident": {
+    "petitioner_win_rate": 0.68,
+    "avg_resolution_years": 6.3,
+    "median_resolution_years": 6.14,
+    "district_average_years": 7.1,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Meerut_cheque_bounce": {
+    "petitioner_win_rate": 0.66,
+    "avg_resolution_years": 5.34,
+    "median_resolution_years": 4.93,
+    "district_average_years": 7.1,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Meerut_service_matter": {
+    "petitioner_win_rate": 0.7,
+    "avg_resolution_years": 5.28,
+    "median_resolution_years": 5.43,
+    "district_average_years": 7.1,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Meerut_constitutional": {
+    "petitioner_win_rate": 0.52,
+    "avg_resolution_years": 5.51,
+    "median_resolution_years": 5.11,
+    "district_average_years": 7.1,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Ghaziabad_land_acquisition": {
+    "petitioner_win_rate": 0.48,
+    "avg_resolution_years": 13.69,
+    "median_resolution_years": 12.36,
+    "district_average_years": 7.18,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Ghaziabad_property_dispute": {
+    "petitioner_win_rate": 0.52,
+    "avg_resolution_years": 15.77,
+    "median_resolution_years": 16.33,
+    "district_average_years": 7.18,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Ghaziabad_criminal_assault": {
+    "petitioner_win_rate": 0.48,
+    "avg_resolution_years": 4.6,
+    "median_resolution_years": 4.69,
+    "district_average_years": 7.18,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Ghaziabad_criminal_theft": {
+    "petitioner_win_rate": 0.58,
+    "avg_resolution_years": 4.64,
+    "median_resolution_years": 4.28,
+    "district_average_years": 7.18,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Ghaziabad_matrimonial": {
+    "petitioner_win_rate": 0.7,
+    "avg_resolution_years": 3.33,
+    "median_resolution_years": 3.39,
+    "district_average_years": 7.18,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Ghaziabad_labour_dispute": {
+    "petitioner_win_rate": 0.62,
+    "avg_resolution_years": 5.85,
+    "median_resolution_years": 5.78,
+    "district_average_years": 7.18,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Ghaziabad_motor_accident": {
+    "petitioner_win_rate": 0.5,
+    "avg_resolution_years": 5.95,
+    "median_resolution_years": 5.79,
+    "district_average_years": 7.18,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Ghaziabad_cheque_bounce": {
+    "petitioner_win_rate": 0.6,
+    "avg_resolution_years": 6.02,
+    "median_resolution_years": 5.7,
+    "district_average_years": 7.18,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Ghaziabad_service_matter": {
+    "petitioner_win_rate": 0.64,
+    "avg_resolution_years": 5.85,
+    "median_resolution_years": 5.6,
+    "district_average_years": 7.18,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Ghaziabad_constitutional": {
+    "petitioner_win_rate": 0.66,
+    "avg_resolution_years": 6.05,
+    "median_resolution_years": 6.08,
+    "district_average_years": 7.18,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Bareilly_land_acquisition": {
+    "petitioner_win_rate": 0.62,
+    "avg_resolution_years": 16.27,
+    "median_resolution_years": 16.78,
+    "district_average_years": 7.28,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Bareilly_property_dispute": {
+    "petitioner_win_rate": 0.58,
+    "avg_resolution_years": 15.03,
+    "median_resolution_years": 15.38,
+    "district_average_years": 7.28,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Bareilly_criminal_assault": {
+    "petitioner_win_rate": 0.4,
+    "avg_resolution_years": 4.51,
+    "median_resolution_years": 4.19,
+    "district_average_years": 7.28,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Bareilly_criminal_theft": {
+    "petitioner_win_rate": 0.36,
+    "avg_resolution_years": 4.72,
+    "median_resolution_years": 4.79,
+    "district_average_years": 7.28,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Bareilly_matrimonial": {
+    "petitioner_win_rate": 0.74,
+    "avg_resolution_years": 3.14,
+    "median_resolution_years": 3.3,
+    "district_average_years": 7.28,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Bareilly_labour_dispute": {
+    "petitioner_win_rate": 0.7,
+    "avg_resolution_years": 6.04,
+    "median_resolution_years": 6.37,
+    "district_average_years": 7.28,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Bareilly_motor_accident": {
+    "petitioner_win_rate": 0.66,
+    "avg_resolution_years": 5.84,
+    "median_resolution_years": 5.93,
+    "district_average_years": 7.28,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Bareilly_cheque_bounce": {
+    "petitioner_win_rate": 0.58,
+    "avg_resolution_years": 6.15,
+    "median_resolution_years": 5.99,
+    "district_average_years": 7.28,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Bareilly_service_matter": {
+    "petitioner_win_rate": 0.54,
+    "avg_resolution_years": 5.61,
+    "median_resolution_years": 5.22,
+    "district_average_years": 7.28,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Bareilly_constitutional": {
+    "petitioner_win_rate": 0.68,
+    "avg_resolution_years": 5.5,
+    "median_resolution_years": 5.08,
+    "district_average_years": 7.28,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Aligarh_land_acquisition": {
+    "petitioner_win_rate": 0.62,
+    "avg_resolution_years": 15.01,
+    "median_resolution_years": 14.78,
+    "district_average_years": 7.3,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Aligarh_property_dispute": {
+    "petitioner_win_rate": 0.5,
+    "avg_resolution_years": 15.22,
+    "median_resolution_years": 14.16,
+    "district_average_years": 7.3,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Aligarh_criminal_assault": {
+    "petitioner_win_rate": 0.48,
+    "avg_resolution_years": 4.79,
+    "median_resolution_years": 4.67,
+    "district_average_years": 7.3,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Aligarh_criminal_theft": {
+    "petitioner_win_rate": 0.5,
+    "avg_resolution_years": 4.94,
+    "median_resolution_years": 5.04,
+    "district_average_years": 7.3,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Aligarh_matrimonial": {
+    "petitioner_win_rate": 0.72,
+    "avg_resolution_years": 3.19,
+    "median_resolution_years": 3.06,
+    "district_average_years": 7.3,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Aligarh_labour_dispute": {
+    "petitioner_win_rate": 0.58,
+    "avg_resolution_years": 5.73,
+    "median_resolution_years": 5.88,
+    "district_average_years": 7.3,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Aligarh_motor_accident": {
+    "petitioner_win_rate": 0.64,
+    "avg_resolution_years": 5.67,
+    "median_resolution_years": 5.43,
+    "district_average_years": 7.3,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Aligarh_cheque_bounce": {
+    "petitioner_win_rate": 0.58,
+    "avg_resolution_years": 6.41,
+    "median_resolution_years": 6.7,
+    "district_average_years": 7.3,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Aligarh_service_matter": {
+    "petitioner_win_rate": 0.62,
+    "avg_resolution_years": 6.29,
+    "median_resolution_years": 6.66,
+    "district_average_years": 7.3,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Aligarh_constitutional": {
+    "petitioner_win_rate": 0.54,
+    "avg_resolution_years": 5.78,
+    "median_resolution_years": 5.62,
+    "district_average_years": 7.3,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Moradabad_land_acquisition": {
+    "petitioner_win_rate": 0.56,
+    "avg_resolution_years": 14.65,
+    "median_resolution_years": 14.79,
+    "district_average_years": 6.98,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Moradabad_property_dispute": {
+    "petitioner_win_rate": 0.54,
+    "avg_resolution_years": 14.84,
+    "median_resolution_years": 14.24,
+    "district_average_years": 6.98,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Moradabad_criminal_assault": {
+    "petitioner_win_rate": 0.46,
+    "avg_resolution_years": 4.52,
+    "median_resolution_years": 4.23,
+    "district_average_years": 6.98,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Moradabad_criminal_theft": {
+    "petitioner_win_rate": 0.46,
+    "avg_resolution_years": 4.49,
+    "median_resolution_years": 4.25,
+    "district_average_years": 6.98,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Moradabad_matrimonial": {
+    "petitioner_win_rate": 0.76,
+    "avg_resolution_years": 3.0,
+    "median_resolution_years": 2.97,
+    "district_average_years": 6.98,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Moradabad_labour_dispute": {
+    "petitioner_win_rate": 0.64,
+    "avg_resolution_years": 5.29,
+    "median_resolution_years": 5.38,
+    "district_average_years": 6.98,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Moradabad_motor_accident": {
+    "petitioner_win_rate": 0.64,
+    "avg_resolution_years": 6.28,
+    "median_resolution_years": 6.32,
+    "district_average_years": 6.98,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Moradabad_cheque_bounce": {
+    "petitioner_win_rate": 0.58,
+    "avg_resolution_years": 5.48,
+    "median_resolution_years": 5.12,
+    "district_average_years": 6.98,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Moradabad_service_matter": {
+    "petitioner_win_rate": 0.7,
+    "avg_resolution_years": 5.92,
+    "median_resolution_years": 6.05,
+    "district_average_years": 6.98,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Moradabad_constitutional": {
+    "petitioner_win_rate": 0.68,
+    "avg_resolution_years": 5.33,
+    "median_resolution_years": 4.94,
+    "district_average_years": 6.98,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Gorakhpur_land_acquisition": {
+    "petitioner_win_rate": 0.56,
+    "avg_resolution_years": 13.76,
+    "median_resolution_years": 11.92,
+    "district_average_years": 7.17,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Gorakhpur_property_dispute": {
+    "petitioner_win_rate": 0.52,
+    "avg_resolution_years": 15.81,
+    "median_resolution_years": 16.66,
+    "district_average_years": 7.17,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Gorakhpur_criminal_assault": {
+    "petitioner_win_rate": 0.48,
+    "avg_resolution_years": 4.71,
+    "median_resolution_years": 4.86,
+    "district_average_years": 7.17,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Gorakhpur_criminal_theft": {
+    "petitioner_win_rate": 0.44,
+    "avg_resolution_years": 4.5,
+    "median_resolution_years": 4.28,
+    "district_average_years": 7.17,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Gorakhpur_matrimonial": {
+    "petitioner_win_rate": 0.66,
+    "avg_resolution_years": 2.88,
+    "median_resolution_years": 2.72,
+    "district_average_years": 7.17,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Gorakhpur_labour_dispute": {
+    "petitioner_win_rate": 0.66,
+    "avg_resolution_years": 6.07,
+    "median_resolution_years": 5.8,
+    "district_average_years": 7.17,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Gorakhpur_motor_accident": {
+    "petitioner_win_rate": 0.56,
+    "avg_resolution_years": 5.62,
+    "median_resolution_years": 5.3,
+    "district_average_years": 7.17,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Gorakhpur_cheque_bounce": {
+    "petitioner_win_rate": 0.64,
+    "avg_resolution_years": 5.94,
+    "median_resolution_years": 6.12,
+    "district_average_years": 7.17,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Gorakhpur_service_matter": {
+    "petitioner_win_rate": 0.52,
+    "avg_resolution_years": 6.13,
+    "median_resolution_years": 6.32,
+    "district_average_years": 7.17,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Gorakhpur_constitutional": {
+    "petitioner_win_rate": 0.62,
+    "avg_resolution_years": 6.24,
+    "median_resolution_years": 6.4,
+    "district_average_years": 7.17,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Jhansi_land_acquisition": {
+    "petitioner_win_rate": 0.56,
+    "avg_resolution_years": 15.57,
+    "median_resolution_years": 16.57,
+    "district_average_years": 7.3,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Jhansi_property_dispute": {
+    "petitioner_win_rate": 0.64,
+    "avg_resolution_years": 15.6,
+    "median_resolution_years": 15.94,
+    "district_average_years": 7.3,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Jhansi_criminal_assault": {
+    "petitioner_win_rate": 0.48,
+    "avg_resolution_years": 5.15,
+    "median_resolution_years": 5.42,
+    "district_average_years": 7.3,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Jhansi_criminal_theft": {
+    "petitioner_win_rate": 0.5,
+    "avg_resolution_years": 5.02,
+    "median_resolution_years": 5.04,
+    "district_average_years": 7.3,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Jhansi_matrimonial": {
+    "petitioner_win_rate": 0.8,
+    "avg_resolution_years": 2.99,
+    "median_resolution_years": 2.86,
+    "district_average_years": 7.3,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Jhansi_labour_dispute": {
+    "petitioner_win_rate": 0.4,
+    "avg_resolution_years": 5.9,
+    "median_resolution_years": 6.14,
+    "district_average_years": 7.3,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Jhansi_motor_accident": {
+    "petitioner_win_rate": 0.58,
+    "avg_resolution_years": 5.77,
+    "median_resolution_years": 5.49,
+    "district_average_years": 7.3,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Jhansi_cheque_bounce": {
+    "petitioner_win_rate": 0.64,
+    "avg_resolution_years": 5.53,
+    "median_resolution_years": 5.09,
+    "district_average_years": 7.3,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Jhansi_service_matter": {
+    "petitioner_win_rate": 0.66,
+    "avg_resolution_years": 5.36,
+    "median_resolution_years": 4.74,
+    "district_average_years": 7.3,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Jhansi_constitutional": {
+    "petitioner_win_rate": 0.66,
+    "avg_resolution_years": 6.06,
+    "median_resolution_years": 6.2,
+    "district_average_years": 7.3,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Mathura_land_acquisition": {
+    "petitioner_win_rate": 0.48,
+    "avg_resolution_years": 14.37,
+    "median_resolution_years": 14.8,
+    "district_average_years": 7.05,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Mathura_property_dispute": {
+    "petitioner_win_rate": 0.58,
+    "avg_resolution_years": 14.56,
+    "median_resolution_years": 14.3,
+    "district_average_years": 7.05,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Mathura_criminal_assault": {
+    "petitioner_win_rate": 0.4,
+    "avg_resolution_years": 4.91,
+    "median_resolution_years": 4.86,
+    "district_average_years": 7.05,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Mathura_criminal_theft": {
+    "petitioner_win_rate": 0.46,
+    "avg_resolution_years": 5.06,
+    "median_resolution_years": 5.3,
+    "district_average_years": 7.05,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Mathura_matrimonial": {
+    "petitioner_win_rate": 0.76,
+    "avg_resolution_years": 2.83,
+    "median_resolution_years": 2.7,
+    "district_average_years": 7.05,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Mathura_labour_dispute": {
+    "petitioner_win_rate": 0.64,
+    "avg_resolution_years": 5.55,
+    "median_resolution_years": 5.11,
+    "district_average_years": 7.05,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Mathura_motor_accident": {
+    "petitioner_win_rate": 0.5,
+    "avg_resolution_years": 5.84,
+    "median_resolution_years": 5.81,
+    "district_average_years": 7.05,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Mathura_cheque_bounce": {
+    "petitioner_win_rate": 0.74,
+    "avg_resolution_years": 5.71,
+    "median_resolution_years": 5.64,
+    "district_average_years": 7.05,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Mathura_service_matter": {
+    "petitioner_win_rate": 0.62,
+    "avg_resolution_years": 5.32,
+    "median_resolution_years": 5.2,
+    "district_average_years": 7.05,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Mathura_constitutional": {
+    "petitioner_win_rate": 0.7,
+    "avg_resolution_years": 6.33,
+    "median_resolution_years": 6.6,
+    "district_average_years": 7.05,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Firozabad_land_acquisition": {
+    "petitioner_win_rate": 0.66,
+    "avg_resolution_years": 16.08,
+    "median_resolution_years": 15.75,
+    "district_average_years": 7.25,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Firozabad_property_dispute": {
+    "petitioner_win_rate": 0.42,
+    "avg_resolution_years": 14.8,
+    "median_resolution_years": 14.43,
+    "district_average_years": 7.25,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Firozabad_criminal_assault": {
+    "petitioner_win_rate": 0.4,
+    "avg_resolution_years": 4.44,
+    "median_resolution_years": 4.39,
+    "district_average_years": 7.25,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Firozabad_criminal_theft": {
+    "petitioner_win_rate": 0.4,
+    "avg_resolution_years": 4.56,
+    "median_resolution_years": 4.41,
+    "district_average_years": 7.25,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Firozabad_matrimonial": {
+    "petitioner_win_rate": 0.72,
+    "avg_resolution_years": 2.95,
+    "median_resolution_years": 2.86,
+    "district_average_years": 7.25,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Firozabad_labour_dispute": {
+    "petitioner_win_rate": 0.5,
+    "avg_resolution_years": 6.2,
+    "median_resolution_years": 6.62,
+    "district_average_years": 7.25,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Firozabad_motor_accident": {
+    "petitioner_win_rate": 0.64,
+    "avg_resolution_years": 5.19,
+    "median_resolution_years": 4.46,
+    "district_average_years": 7.25,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Firozabad_cheque_bounce": {
+    "petitioner_win_rate": 0.64,
+    "avg_resolution_years": 6.0,
+    "median_resolution_years": 5.98,
+    "district_average_years": 7.25,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Firozabad_service_matter": {
+    "petitioner_win_rate": 0.58,
+    "avg_resolution_years": 5.92,
+    "median_resolution_years": 5.64,
+    "district_average_years": 7.25,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Firozabad_constitutional": {
+    "petitioner_win_rate": 0.62,
+    "avg_resolution_years": 6.37,
+    "median_resolution_years": 6.4,
+    "district_average_years": 7.25,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Muzaffarnagar_land_acquisition": {
+    "petitioner_win_rate": 0.56,
+    "avg_resolution_years": 15.69,
+    "median_resolution_years": 16.33,
+    "district_average_years": 7.22,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Muzaffarnagar_property_dispute": {
+    "petitioner_win_rate": 0.54,
+    "avg_resolution_years": 15.01,
+    "median_resolution_years": 15.14,
+    "district_average_years": 7.22,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Section 34 Objection Filing",
+        "avg_delay_months": 14
+      },
+      {
+        "name": "Revenue Record Gaps",
+        "avg_delay_months": 6
+      }
+    ]
+  },
+  "Muzaffarnagar_criminal_assault": {
+    "petitioner_win_rate": 0.42,
+    "avg_resolution_years": 4.73,
+    "median_resolution_years": 4.82,
+    "district_average_years": 7.22,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Muzaffarnagar_criminal_theft": {
+    "petitioner_win_rate": 0.54,
+    "avg_resolution_years": 4.19,
+    "median_resolution_years": 4.22,
+    "district_average_years": 7.22,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Witness Non-Appearance",
+        "avg_delay_months": 8
+      },
+      {
+        "name": "Forensic Report Pending",
+        "avg_delay_months": 11
+      }
+    ]
+  },
+  "Muzaffarnagar_matrimonial": {
+    "petitioner_win_rate": 0.74,
+    "avg_resolution_years": 2.99,
+    "median_resolution_years": 2.78,
+    "district_average_years": 7.22,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Muzaffarnagar_labour_dispute": {
+    "petitioner_win_rate": 0.66,
+    "avg_resolution_years": 6.04,
+    "median_resolution_years": 5.72,
+    "district_average_years": 7.22,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Muzaffarnagar_motor_accident": {
+    "petitioner_win_rate": 0.58,
+    "avg_resolution_years": 5.67,
+    "median_resolution_years": 5.62,
+    "district_average_years": 7.22,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Muzaffarnagar_cheque_bounce": {
+    "petitioner_win_rate": 0.6,
+    "avg_resolution_years": 5.97,
+    "median_resolution_years": 5.65,
+    "district_average_years": 7.22,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": true,
+    "lok_adalat_success_rate": 0.78,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Muzaffarnagar_service_matter": {
+    "petitioner_win_rate": 0.58,
+    "avg_resolution_years": 5.89,
+    "median_resolution_years": 5.64,
+    "district_average_years": 7.22,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  },
+  "Muzaffarnagar_constitutional": {
+    "petitioner_win_rate": 0.58,
+    "avg_resolution_years": 6.02,
+    "median_resolution_years": 5.82,
+    "district_average_years": 7.22,
+    "national_average_years": 7.23,
+    "lok_adalat_eligible": false,
+    "lok_adalat_success_rate": 0.0,
+    "similar_cases_count": 50,
+    "top_bottlenecks": [
+      {
+        "name": "Adjournments by Respondent Counsel",
+        "avg_delay_months": 5
+      }
+    ]
+  }
+}
